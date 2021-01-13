@@ -1,0 +1,15 @@
+1,1,350,aaa,,,,Credit card cannot be empty,Credit card pin cannot be empty,Exp date cannot be empty,Please correct above errors
+2,1,350,aaa,a,,,Credit card number must be a number,Credit card pin cannot be empty,Exp date cannot be empty,Please correct above errors
+3,1,350,aaa,1,,,Credit card number must be 16 digits,Credit card pin cannot be empty,Exp date cannot be empty,Please correct above errors
+4,1,350,aaa,43425677869977881,,,Credit card number must be 16 digits,Credit card pin cannot be empty,Exp date cannot be empty,Please correct above errors
+5,1,350,aaa,4342567786997788,,,,Credit card pin cannot be empty,Exp date cannot be empty,Please correct above errors
+6,1,350,aaa,4342567786997788,a,,,Credit card pin must be a number,Exp date cannot be empty,Please correct above errors
+7,1,350,aaa,4342567786997788,1,,,Credit card pin must be 4 digits,Exp date cannot be empty,Please correct above errors
+8,1,350,aaa,4342567786997788,30441,,,Credit card pin must be 4 digits,Exp date cannot be empty,Please correct above errors
+9,1,350,aaa,4342567786997788,3044,,,,Exp date cannot be empty,Please correct above errors
+10,1,350,aaa,4342567786997788,3044,a,,,Credit Card exp date must be a number,Please correct above errors
+11,1,350,aaa,4342567786997788,3044,1,,,Credit card exp date must be 4 digits,Please correct above errors
+12,1,350,aaa,4342567786997788,3044,99999,,,Credit card exp date must be 4 digits,Please correct above errors
+13,1,350,aaa,4342567786997788,3044,9999,,,Wrong Exp date format,Please correct above errors
+14,1,350,aaa,4342567786997788,3044,0220,,,Credit card exp date must not be in past,Please correct above errors
+15,1,350,aaa,4342567786997788,3044,0421,,,,

@@ -1,0 +1,7 @@
+1,,Street number length must be >0 and <7,Comment
+2,1234567,Street number length must be >0 and <7,Comment
+3,qqq,Street number must be numeric,Comment
+4,12343212,Street number length must be >0 and <7,Comment
+5,1234,,
+6,123456,,
+7,1,,

@@ -1,0 +1,8 @@
+1,,Email address must be between 7 and 45 characters long,Comment
+2,email1,Email address must be between 7 and 45 characters long,6 length
+3,emailemailemailemailemailemailemailemailemail1,Email address must be between 7 and 45 characters long,46 length
+4,email12,Email address needs to contain @,7 length
+5,emailemailemailemail@emailemailemailemailemai,Invalid domain name,45 length no dot
+6,email@email.email,Invalid domain name,
+7,EMAIL@EMAIL.ORG,,tests lowercase method
+8,email@email.org,,

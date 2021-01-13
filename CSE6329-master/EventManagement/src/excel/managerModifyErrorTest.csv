@@ -1,0 +1,4 @@
+1,04/06/2021,08:00AM,04/06/2020,02:24AM,2 Hours,Maverick Hall,0,Date cannot be in past,Start time cannot preceed open time,,Estimated attendees must be greater than 0
+2,04/06/2021,08:00AM,04/07/2021,09:00PM,5 Hours,Maverick Hall,asd,,Duration cannot exceed close time,,Estimated attendees must be a number
+3,04/06/2021,08:00AM,04/07/2022,01:00PM,2 Hours,KC Hall,200,,,Chosen hall too small,Estimated attendees must be <=100
+4,04/06/2021,08:00AM,04/06/2022,03:00PM,2 Hours,Shard Hall,20,,,,

@@ -1,0 +1,7 @@
+1,,State must be a 2 letter abbreviation,Comment
+2,a,State must be a 2 letter abbreviation,
+3,aaa,State must be a 2 letter abbreviation,
+4,1a,State must be non-numeric,
+6,aa,State abbreviation not found,
+7,al,,tests uppercase method
+8,AK,,

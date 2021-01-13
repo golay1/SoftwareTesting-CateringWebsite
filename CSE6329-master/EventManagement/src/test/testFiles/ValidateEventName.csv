@@ -1,0 +1,7 @@
+1,,Event name length must be >2 and <30,Comment
+2,aa,Event name length must be >2 and <30,Comment
+3,aaa,Event name must start with a capital letter,Comment
+4,Aqwertyuiopasdfghjklzxcvbnmqws,Event name length must be >2 and <30,Comment
+5,Aqwertyuiopasdfghjklzxcvbnmqw,,Comment
+6,SuperBash,Event names must be unique,Comment
+7,Aaa,,

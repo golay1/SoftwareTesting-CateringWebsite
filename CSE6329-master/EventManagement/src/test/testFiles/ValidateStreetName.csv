@@ -1,0 +1,7 @@
+1,,Street name length must be greater than zero,Comment
+2,qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrr,Street name length must be less than 40,Comment
+3,LYNNWOOD8,Street name be non-numeric,Comment
+4,lynnwood,,
+5,qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrr,,
+6,8lynnwood,Street name be non-numeric,
+7,q,,

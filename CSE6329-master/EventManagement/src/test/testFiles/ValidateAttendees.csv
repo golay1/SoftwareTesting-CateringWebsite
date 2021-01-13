@@ -1,0 +1,6 @@
+1,,Estimated attendees must be a number,Comment
+2,0,Estimated attendees must be greater than 0,
+3,-1,Estimated attendees must be greater than 0,removes greater than to not equal mutation
+4,101,Estimated attendees must be <=100,
+5,1,,
+6,100,,

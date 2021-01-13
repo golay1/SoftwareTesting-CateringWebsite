@@ -1,0 +1,8 @@
+1,,Username length must be >4 and <=20,Comment
+2,aaaa,Username length must be >4 and <=20,Comment
+3,2aaaa,Username must start with a letter,Comment
+4,aaaaaaaaaaaaaaaaaaaaa,Username length must be >4 and <=20,Comment
+5,!aaaa,Username cannot contain special characters,Special character at start
+6,aa!aa,Username cannot contain special characters,Comment
+7,david,Username already in database,Comment
+8,aaaaaaaaaaaaaaaaaaaa,,

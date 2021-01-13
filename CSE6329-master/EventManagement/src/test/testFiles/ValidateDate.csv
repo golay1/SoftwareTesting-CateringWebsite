@@ -1,0 +1,5 @@
+1,benoit,03-15-2020,Date cannot be in past,T
+2,benoit,03-29-2020,,
+2,benoit,04-20-2020,More than 5 events per 7 day period not allowed,TF (Change to current date)
+3,benoit,04-21-2020,More than 2 events per day not allowed,FT
+4,benoit,09-27-2020,,T (before submission change to the nearest date)

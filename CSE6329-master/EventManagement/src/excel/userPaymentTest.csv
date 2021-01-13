@@ -1,0 +1,5 @@
+1,,,,Credit card cannot be empty,Credit card pin cannot be empty,Exp date cannot be empty,Please correct above errors
+2,abc,abc,abc,Credit card number must be a number,Credit card pin must be a number,Credit Card exp date must be a number,Please correct above errors
+3,123412341234123,123,123,Credit card number must be 16 digits,Credit card pin must be 4 digits,Credit card exp date must be 4 digits,Please correct above errors
+4,1234123412341234,1234,1219,,,Credit card exp date must not be in past,Please correct above errors
+5,1234123412341234,1234,0422,,,,

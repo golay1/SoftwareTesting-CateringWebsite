@@ -1,0 +1,6 @@
+1,,UTA Id must have a length of 10,Empty UTA ID
+2,aaaaaaaaa,UTA Id must have a length of 10,9 chars non-numeric
+3,aaaaaaaaaa,UTA Id must be numeric, 10 chars non-numeric
+4,1111111111,UTA ID already in database,Id already taken
+5,1001588846,,Unique UTA ID
+6,aaaaaaaaaaa,UTA Id must have a length of 10,11 chars non-numeric

@@ -1,0 +1,40 @@
+1,1,benoit,Benoit,David,09-27-2020,,12:00,1,maverick,,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,Event name length must be >2 and <30,,,Estimated attendees must be a number,,,,Please correct the above errors,
+2,2,benoit,Benoit,David,09-27-2020,aa,12:00,1,maverick,25,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,Event name length must be >2 and <30,,,,,,,Please correct the above errors,
+3,3,benoit,Benoit,David,09-27-2020,aaa,12:00,1,maverick,25,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,Event name must start with a capital letter,,,,,,,Please correct the above errors,
+4,4,benoit,Benoit,David,09-27-2020,Aqwertyuiopasdfghjklzxcvbnmqws,12:00,1,maverick,25,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,Event name length must be >2 and <30,,,,,,,Please correct the above errors,
+5,5,benoit,Benoit,David,09-27-2020,Aqwertyuiopasdfghjklzxcvbnmqw,12:00,1,maverick,25,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,,,,,,,Correct Case
+6,6,benoit,Benoit,David,09-27-2020,SuperBash,12:00,1,maverick,25,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,Event names must be unique,,,,,,,Please correct the above errors,
+7,7,benoit,Benoit,David,09-27-2020,Aaa,12:00,1,maverick,25,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,,,,,,,Correct Case
+8,8,benoit,Benoit,David,09-27-2020,Aaa,12:00,1,maverick,0,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,,Estimated attendees must be greater than 0,,,,Please correct the above errors,
+9,9,benoit,Benoit,David,09-27-2020,Aaa,12:00,1,maverick,-1,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,,Estimated attendees must be greater than 0,,,,Please correct the above errors,
+10,10,benoit,Benoit,David,09-27-2020,Aaa,12:00,1,maverick,101,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,,Estimated attendees must be <=100,,,,Please correct the above errors,
+11,11,benoit,Benoit,David,09-27-2020,Aaa,12:00,1,maverick,100,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,,,,,,,Correct Case
+12,12,benoit,Benoit,David,09-27-2020,Aaa,12:00,1,maverick,101,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,Chosen hall too small,,,,,Please correct the above errors,
+13,13,benoit,Benoit,David,09-27-2020,Aaa,12:00,1,maverick,100,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,,,,,,,Correct Case
+14,14,benoit,Benoit,David,09-27-2020,Aaa,12:00,1,kc,26,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,Chosen hall too small,,,,,Please correct the above errors,
+15,15,benoit,Benoit,David,09-27-2020,Aaa,12:00,1,kc,25,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,,,,,,,Correct Case
+16,16,benoit,Benoit,David,09-27-2020,Aaa,12:00,1,arlington,51,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,Chosen hall too small,,,,,Please correct the above errors,
+17,17,benoit,Benoit,David,09-27-2020,Aaa,12:00,1,arlington,50,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,,,,,,,Correct Case
+18,18,benoit,Benoit,David,09-27-2020,Aaa,12:00,1,shard,26,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,Chosen hall too small,,,,,Please correct the above errors,
+19,19,benoit,Benoit,David,09-27-2020,Aaa,12:00,1,shard,25,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,,,,,,,Correct Case
+20,20,benoit,Benoit,David,09-27-2020,Aaa,12:00,1,liberty,76,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,Chosen hall too small,,,,,Please correct the above errors,
+21,21,benoit,Benoit,David,09-27-2020,Aaa,12:00,1,liberty,75,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,,,,,,,Correct Case
+22,22,benoit,Benoit,David,09-27-2020,Aaa,12:00,1,liberty,74,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,,,,,,,Correct Case
+23,23,benoit,Benoit,David,09-27-2020,Aaa,12:00,1,abcd,abcd,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,,,,,,,Correct Case
+24,24,benoit,Benoit,David,09-27-2020,Aaa,12:00,1,abcd,12,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,Hall not found,,,,,Please correct the above errors,
+25,25,benoit,Benoit,David,09-27-2020,Aaa,12:00,1,maverick,25,american,breakfast,standard,music,Pending,Robert,Jake,informal,350,,,,,,,,No name found for expected role,No name found for expected role,,Please correct the above errors,User doesn't exist
+26,26,benoit,Benoit,David,09-27-2020,Aaa,12:00,1,maverick,25,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,,,,,,,User exist
+27,27,benoit,Benoit,David,03-15-2020,Aaa,12:00,1,maverick,25,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,,,,,Date cannot be in past,Please correct the above errors,
+28,28,benoit,Benoit,David,03-29-2020,Aaa,12:00,1,maverick,25,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,,,,,,,Correct Case (Change to current date)
+29,29,benoit,Benoit,David,04-20-2020,Aaa,12:00,1,maverick,25,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,,,,,More than 5 events per 7 day period not allowed,Please correct the above errors,
+30,30,benoit,Benoit,David,04-21-2020,Aaa,12:00,1,maverick,25,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,,,,,More than 2 events per day not allowed,Please correct the above errors,
+31,31,benoit,Benoit,David,09-27-2020,Aaa,12:00,1,maverick,25,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,,,,,,,T (before submission change to the nearest date)
+32,32,benoit,Benoit,David,03-22-2020,Aaa,12:00,3,maverick,25,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,,,,,,,sunday no error boundary condition and BP
+33,33,benoit,Benoit,David,03-22-2020,Aaa,11:99,3,maverick,25,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,Start time cannot preceed open time,,,,,,Please correct the above errors, Sunday start time error BP and boundary condition
+34,34,benoit,Benoit,David,03-26-2020,Aaa,07:00,3,maverick,25,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,,,,,,,Thursday no error boundary condition and BP
+35,35,benoit,Benoit,David,03-26-2020,Aaa,06:99,3,maverick,25,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,Start time cannot preceed open time,,,,,,Please correct the above errors, Thursday with start time error BP and boundary condition
+36,36,benoit,Benoit,David,03-26-2020,Aaa,21:99,1,maverick,25,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,,,,,,,Thursday no error boundary condition and BP
+37,37,benoit,Benoit,David,03-26-2020,Aaa,22:00,1,maverick,25,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,,,,,,,Thursday no error boundary condition and BP
+38,38,benoit,Benoit,David,03-26-2020,Aaa,22:01,1,maverick,25,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,Duration cannot exceed close time,,,,,,Please correct the above errors, Thursday with start time error BP and boundary condition
+39,39,benoit,Benoit,David,03-27-2020,Aaa,22:00,4,maverick,25,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,,,,,,,,Friday with np error BP and boundary condition
+40,40,benoit,Benoit,David,03-27-2020,Aaa,22:01,4,maverick,25,american,breakfast,standard,music,Pending,Saint,Steven,informal,350,,,,,Duration cannot exceed close time,,,,,,Please correct the above errors, Friday with close time error

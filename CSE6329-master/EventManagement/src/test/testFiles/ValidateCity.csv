@@ -1,0 +1,9 @@
+1,,city length must be >2 and <30,Comment
+2,ar,city length must be >2 and <30,Comment
+3,Arl,,
+4,ArlingtonTexasUnitedStateofAm,,
+5,arlingtonTexasUnitedStateofAme,city length must be >2 and <30,Comment
+6,arlington,city must start with a capital letter,Comment
+7,~Arlington,city cannot contain special characters,Comment
+8,0Arlington,city cannot be a number,Comment
+9,Arlington,,

@@ -1,0 +1,86 @@
+1,,,,,,,,,,,,,user,Username length must be >4 and <=20,Password must contain an upper case letterPassword must contain a lower case letterPassword length must be >7 and <30Password must contain a numberPassword must contain a special character,Last name length must be >2 and <30,First name length must be >2 and <30,UTA Id must have a length of 10,Phone number must have 10 digits,Email address must be between 7 and 45 characters long,Street number length must be >0 and <7,Street name length must be greater than zero,city length must be >2 and <30,State must be a 2 letter abbreviation,Zipcode must have a length of 5,,Please correct the above errors,
+2,aaaa,E@eeeee11,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,Username length must be >4 and <=20,,,,,,,,,,,,,Please correct the above errors,
+3,2aaaa,E@eeeee11,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,Username must start with a letter,,,,,,,,,,,,,Please correct the above errors,
+4,aaaaaaaaaaaaaaaaaaaaa,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,Username length must be >4 and <=20,,,,,,,,,,,,,Please correct the above errors,
+5,!aaaa,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,Username cannot contain special characters,,,,,,,,,,,,,Please correct the above errors,
+6,aa!aa,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,Username cannot contain special characters,,,,,,,,,,,,,Please correct the above errors,
+7,david,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,Username already in database,,,,,,,,,,,,,Please correct the above errors,
+8,aaaaaaaaaaaaaaaaaaaa,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,,,,,,,,,,,,Correct Case
+9,suresh,Eeeeeee,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,Password must contain an upper case letterPassword must contain a lower case letterPassword length must be >7 and <30Password must contain a numberPassword must contain a special character,,,,,,,,,,,,Please correct the above errors,
+10,suresh,eeeeeee1,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,Password must contain an upper case letterPassword must contain a lower case letterPassword length must be >7 and <30Password must contain a numberPassword must contain a special character,,,,,,,,,,,,Please correct the above errors,
+11,suresh,Eeeee1,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,Password must contain an upper case letterPassword must contain a lower case letterPassword length must be >7 and <30Password must contain a numberPassword must contain a special character,,,,,,,,,,,,Please correct the above errors,
+12,suresh,E@eeeee11,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,,,,,,,,,,,,Correct Case
+13,suresh,EEEEEEE11@,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,Password must contain an upper case letterPassword must contain a lower case letterPassword length must be >7 and <30Password must contain a numberPassword must contain a special character,,,,,,,,,,,,Please correct the above errors,
+14,suresh,E@e1,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,Password must contain an upper case letterPassword must contain a lower case letterPassword length must be >7 and <30Password must contain a numberPassword must contain a special character,,,,,,,,,,,,Please correct the above errors,
+15,suresh,Eeeeeeeeeeee11111,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,Password must contain an upper case letterPassword must contain a lower case letterPassword length must be >7 and <30Password must contain a numberPassword must contain a special character,,,,,,,,,,,,Please correct the above errors,
+16,suresh,E@eeeee11,gu,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,Last name length must be >2 and <30,,,,,,,,,,,Please correct the above errors,
+17,suresh,E@eeeee11,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,,,,,,,,,,,,Correct Case
+18,suresh,E@eeeee11,Guopengliuniversityoftexasata,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,,,,,,,,,,,,Correct Case
+19,suresh,E@eeeee12,guopengliuniversityoftexasatar,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,Last name length must be >2 and <30,,,,,,,,,,,Please correct the above errors,
+20,suresh,E@eeeee12,guopeng,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,Last name must start with a capital letter,,,,,,,,,,,Please correct the above errors,
+21,suresh,E@eeeee12,~Guopeng,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,Last name cannot contain special characters,,,,,,,,,,,Please correct the above errors,
+22,suresh,E@eeeee12,0Guopeng,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,Last name cannot be a number,,,,,,,,,,,Please correct the above errors,
+23,suresh,E@eeeee12,Guopeng,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,,,,,,,,,,,,Correct Case
+24,suresh,E@eeeee12,Guo,gu,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,First name length must be >2 and <30,,,,,,,,,,Please correct the above errors,
+25,suresh,E@eeeee12,Guo,Guo,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,,,,,,,,,,,,Correct Case
+26,suresh,E@eeeee12,Guo,Guopengliuniversityoftexasata,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,,,,,,,,,,,,Correct Case
+27,suresh,E@eeeee12,Guo,guopengliuniversityoftexasatar,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,First name length must be >2 and <30,,,,,,,,,,Please correct the above errors,
+28,suresh,E@eeeee12,Guo,guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,First name must start with a capital letter,,,,,,,,,,Please correct the above errors,
+29,suresh,E@eeeee12,Guo,~Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,First name cannot contain special characters,,,,,,,,,,Please correct the above errors,
+30,suresh,E@eeeee12,Guo,0Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,First name cannot be a number,,,,,,,,,,Please correct the above errors,
+31,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,,,,,,,,,,,,Correct Case
+32,suresh,E@eeeee12,Guo,Guopeng,aaaaaaaaa,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,,UTA Id must have a length of 10,,,,,,,,,Please correct the above errors,9 chars non-numeric
+33,suresh,E@eeeee12,Guo,Guopeng,aaaaaaaaaa,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,,UTA Id must be numeric,,,,,,,,,Please correct the above errors,10 chars non-numeric
+34,suresh,E@eeeee12,Guo,Guopeng,1111111111,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,,UTA ID already in database,,,,,,,,,Please correct the above errors,Id already taken
+35,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,,,,,,,,,,,,Unique UTA ID
+36,suresh,E@eeeee12,Guo,Guopeng,aaaaaaaaaaa,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,,UTA Id must have a length of 10,,,,,,,,,Please correct the above errors,11 chars non-numeric
+37,suresh,E@eeeee12,Guo,Guopeng,1001588846,123456789,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,,,Phone number must have 10 digits,,,,,,,,Please correct the above errors,
+38,suresh,E@eeeee12,Guo,Guopeng,1001588846,12345678912,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,,,Phone number must have 10 digits,,,,,,,,Please correct the above errors,
+39,suresh,E@eeeee12,Guo,Guopeng,1001588846,123456789A,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,,,Phone number must be numeric,,,,,,,,Please correct the above errors,
+40,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,,,,,,,,,,,,Correct Case
+41,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email1,1234,lynnwood,Arlington,TX,76013,user,,,,,,,Email address must be between 7 and 45 characters long,,,,,,,Please correct the above errors,6 length
+42,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,emailemailemailemailemailemailemailemailemail1,1234,lynnwood,Arlington,TX,76013,user,,,,,,,Email address must be between 7 and 45 characters long,,,,,,,Please correct the above errors,46 length
+43,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email12,1234,lynnwood,Arlington,TX,76013,user,,,,,,,Email address needs to contain @,,,,,,,Please correct the above errors,7 length
+44,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,emailemailemailemail@emailemailemailemailemai,1234,lynnwood,Arlington,TX,76013,user,,,,,,,Invalid domain name,,,,,,,Please correct the above errors,45 length
+45,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.email,1234,lynnwood,Arlington,TX,76013,user,,,,,,,Invalid domain name,,,,,,,Please correct the above errors,
+46,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,EMAIL@EMAIL.ORG,1234,lynnwood,Arlington,TX,76013,user,,,,,,,,,,,,,,,if lowercase method doesn't work
+47,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.org,1234,lynnwood,Arlington,TX,76013,user,,,,,,,,,,,,,,,
+48,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.edu,1234,lynnwood,Arlington,TX,76013,user,,,,,,,,,,,,,,,
+49,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.com,1234,lynnwood,Arlington,TX,76013,user,,,,,,,,,,,,,,,
+50,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.net,1234,lynnwood,Arlington,TX,76013,user,,,,,,,,,,,,,,,
+51,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.gov,1234,lynnwood,Arlington,TX,76013,user,,,,,,,,,,,,,,,
+52,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,,,,,,,,,,,,
+53,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234567,lynnwood,Arlington,TX,76013,user,,,,,,,,Street number length must be >0 and <7,,,,,,Please correct the above errors,
+54,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,qqq,lynnwood,Arlington,TX,76013,user,,,,,,,,Street number must be numeric,,,,,,Please correct the above errors,
+55,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,12343212,lynnwood,Arlington,TX,76013,user,,,,,,,,Street number length must be >0 and <7,,,,,,Please correct the above errors,
+56,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,,,,,,,,,,,,
+57,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,123456,lynnwood,Arlington,TX,76013,user,,,,,,,,,,,,,,,
+58,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1,lynnwood,Arlington,TX,76013,user,,,,,,,,,,,,,,,
+59,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrr,Arlington,TX,76013,user,,,,,,,,,Street name length must be less than 40,,,,,Please correct the above errors,
+60,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,LYNNWOOD8,Arlington,TX,76013,user,,,,,,,,,Street name be non-numeric,,,,,Please correct the above errors,
+61,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,,,,,,,,,,,,
+62,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrr,Arlington,TX,76013,user,,,,,,,,,,,,,,,
+63,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,8lynnwood,Arlington,TX,76013,user,,,,,,,,,Street name be non-numeric,,,,,Please correct the above errors,
+64,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,q,Arlington,TX,76013,user,,,,,,,,,,,,,,,
+65,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,ar,TX,76013,user,,,,,,,,,,city length must be >2 and <30,,,,Please correct the above errors,
+66,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arl,TX,76013,user,,,,,,,,,,,,,,,
+67,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,ArlingtonTexasUnitedStateofAm,TX,76013,user,,,,,,,,,,,,,,,
+68,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,arlingtonTexasUnitedStateofAme,TX,76013,user,,,,,,,,,,city length must be >2 and <30,,,,Please correct the above errors,
+69,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,arlington,TX,76013,user,,,,,,,,,,city must start with a capital letter,,,,Please correct the above errors,
+70,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,~Arlington,TX,76013,user,,,,,,,,,,city cannot contain special characters,,,,Please correct the above errors,
+71,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,0Arlington,TX,76013,user,,,,,,,,,,city cannot be a number,,,,Please correct the above errors,
+72,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,,,,,,,,,,,,
+73,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,a,76013,user,,,,,,,,,,,State must be a 2 letter abbreviation,,,Please correct the above errors,
+74,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,aaa,76013,user,,,,,,,,,,,State must be a 2 letter abbreviation,,,Please correct the above errors,
+75,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,1a,76013,user,,,,,,,,,,,State must be non-numeric,,,Please correct the above errors,
+76,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,aa,76013,user,,,,,,,,,,,State abbreviation not found,,,Please correct the above errors,
+77,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,al,76013,user,,,,,,,,,,,,,,,tests uppercase method
+78,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,AK,76013,user,,,,,,,,,,,,,,,
+79,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,7601,user,,,,,,,,,,,,Zipcode must have a length of 5,,Please correct the above errors,
+80,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,760133,user,,,,,,,,,,,,Zipcode must have a length of 5,,Please correct the above errors,
+81,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,qqqqq,user,,,,,,,,,,,,zipcode must be numeric,,Please correct the above errors,
+82,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,,,,,,,,,,,,
+83,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,admin,,,,,,,,,,,,,System can only have one Admin,Please correct the above errors,
+84,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,manager,,,,,,,,,,,,,System can only have one Caterer Mgr,Please correct the above errors,
+85,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,asd,,,,,,,,,,,,,Invalid role,Please correct the above errors,
+86,suresh,E@eeeee12,Guo,Guopeng,1001588846,1234567890,email@email.mil,1234,lynnwood,Arlington,TX,76013,user,,,,,,,,,,,,,,,

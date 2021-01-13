@@ -1,0 +1,9 @@
+ 1,4/4/2018,04:00,2 Hours,Shard Hall,a,EventForTest0,American,Breakfast,Informal,Non-Alcohol,Music,Date cannot be in past,Start time cannot preceed open time,,Estimated attendees must be a number,Event names must be unique
+2,4/7/2021,22:00,5 Hours,KC Hall,0,Ab,Chinese,Breakfast,Informal,Non-Alcohol,Non-Music,More than 2 events per day not allowed,Duration cannot exceed close time,,Estimated attendees must be greater than 0,Event name length must be >2 and <30
+3,4/6/2021,15:00,4 Hours,Maverick Hall,101,abc,French,Lunch,Formal,Alcohol,Music,More than 5 events per 7 day period not allowed,,Chosen hall too small,Estimated attendees must be <=100,Event name must start with a capital letter
+4,3/7/2021,17:00,3 Hours,Liberty Hall,50,EventName1,Greek,Supper,Informal,Non-Alcohol,Music,,,,,
+5,3/15/2021,10:00,6 Hours,KC Hall,20,EventName2,Indian,Breakfast,Formal,Alcohol,Music,,,,,
+6,3/16/2021,09:00,2 Hours,Maverick Hall,50,EventName3,Italian,Lunch,Formal,Alcohol,Music,,,,,
+7,3/16/2021,17:00,2 Hours,Shard Hall,20,EventName4,Japanese,Lunch,Formal,Alcohol,Non-Music,,,,,
+8,3/28/2021,17:00,2 Hours,Shard Hall,20,EventName5,Mexican,Lunch,Formal,Alcohol,Non-Music,,,,,
+9,3/29/2021,17:00,2 Hours,Arlington Hall,30,EventName6,Pizza,Lunch,Formal,Alcohol,Non-Music,,,,,

@@ -1,0 +1,4 @@
+1,admin,System can only have one Admin,valid role admin
+2,manager,System can only have one Caterer Mgr,valid role manager
+3,asd,Invalid role,Invalid role
+4,user,,

@@ -1,0 +1,9 @@
+1,03-22-2020,12:00,3,,sunday no error boundary condition and BP
+2,03-22-2020,11:99,3,Start time cannot preceed open time, Sunday start time error BP and boundary condition
+3,03-26-2020,07:00,3,,Thursday no error boundary condition and BP
+4,03-26-2020,06:99,3,Start time cannot preceed open time, Thursday with start time error BP and boundary condition
+5,03-26-2020,21:99,1,,Thursday no error boundary condition and BP
+6,03-26-2020,22:00,1,,Thursday no error boundary condition and BP
+7,03-26-2020,22:01,1,Duration cannot exceed close time, Thursday with start time error BP and boundary condition
+8,03-27-2020,22:00,4,,Friday with np error BP and boundary condition
+9,03-27-2020,22:01,4,Duration cannot exceed close time, Friday with close time error

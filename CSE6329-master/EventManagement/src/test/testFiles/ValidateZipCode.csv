@@ -1,0 +1,5 @@
+1,,Zipcode must have a length of 5,Comment
+2,7601,Zipcode must have a length of 5,Comment
+3,760133,Zipcode must have a length of 5,Comment
+4,qqqqq,zipcode must be numeric,Comment
+5,76013,,
